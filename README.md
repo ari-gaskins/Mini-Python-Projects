@@ -7,3 +7,4 @@ I seek to learn more python and create the habit of pseudo-coding.
 2. Add Two Numbers: 1/5/2021
 3. Max of Two Numbers: 1/6/2021
 4. Factorial of a Number: 1/7/2021
+5. Simple Interest: 1/8/2021

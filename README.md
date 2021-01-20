@@ -10,3 +10,4 @@ I seek to learn more python and create the habit of pseudo-coding.
 5. Simple Interest: 1/8/2021
 6. Compound Interest: 1/9/2021
 7. Check for Armstrong Number: 1/20/2021
+8. Calculate the Area of the Circle: 1/20/2021

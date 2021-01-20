@@ -9,3 +9,4 @@ I seek to learn more python and create the habit of pseudo-coding.
 4. Factorial of a Number: 1/7/2021
 5. Simple Interest: 1/8/2021
 6. Compound Interest: 1/9/2021
+7. Check for Armstrong Number: 1/20/2021

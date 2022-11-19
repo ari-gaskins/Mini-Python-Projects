@@ -1,4 +1,4 @@
-# Hundred Mini Python Projects
+# Mini Python Projects
 
 This is a project to both cure my perfectionism and keep me programming no matter how busy I get by creating very small programs daily.
 I seek to learn more python and create the habit of pseudo-coding.
